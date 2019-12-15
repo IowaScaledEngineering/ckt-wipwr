@@ -1,0 +1,4 @@
+schematics ckt-wipwr.sch
+output-name ../pcb/ckt-wipwr
+skip-m4
+elements-dir ../../../footprints
